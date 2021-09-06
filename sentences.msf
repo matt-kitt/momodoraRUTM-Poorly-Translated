@@ -1,0 +1,694 @@
+﻿
+header_info MOMODORA IV GAME TEXT. ENGLISH LANGUAGE
+
+// Symbology info
+// # --- > line break
+// | --- > pause in text (use many in a row)
+// @ --- > grey text
+// £ --- > shakey letters
+
+// Languages - DO NOT TRANSLATE THESE //
+sys_lang01 Poorly Translated (English)
+sys_lang02 Japan
+sys_lang03 Espaol
+sys_lang04 French
+sys_lang05 Deutsch
+sys_lang06 Portuguese
+sys_lang07 Русский
+sys_lang08 Italian
+sys_lang09 simplified Chinese
+sys_lang10 한국어
+sys_lang11 Dansk
+
+// UI / System Messages //
+sys_ui01 Press any key
+sys_ui02 empty file
+sys_ui03 Enter Slot
+sys_ui04 Please select the control type
+sys_ui05 screen
+sys_ui06 -Zogs-
+sys_ui07 next
+sys_ui08
+sys_ui09 has returned the DELGER name
+sys_ui10 stop
+sys_ui11 -Settings-
+sys_ui12 Size
+sys_ui13 Music music
+sys_ui14 screen response
+sys_ui15 graphics quality
+sys_ui16 low
+sys_ui17 multimedia
+sys_ui18 Alta
+sys_ui19 language
+sys_ui20 type control
+sys_ui21 case changes
+sys_ui22 returns
+
+// Difficulty modes and their descriptions; Game over messages
+sys_ui23 -Select problem level-
+sys_ui24 easy
+sys_ui25 has arrived
+sys_ui26 lukk
+sys_ui27 
+sys_ui28 Those not in Deogee.
+sys_ui29 Those who played roll games.
+sys_ui30 Loolan!#New rules Players will not be cured
+sys_ui31 Ha.
+sys_ui32 You are alone
+sys_ui33 Minder is good
+
+// Pause menu
+sys_ui34 TOOLS
+sys_ui35 IMPORTANT
+sys_ui36 MAP
+sys_ui37 PARAMETER
+sys_ui38 Select
+sys_ui39 Confirm
+sys_ui40 Close
+sys_ui41 off
+sys_ui42 Keyboard
+sys_ui43 Manager
+sys_ui44 control (optional)
+sys_ui45 Active Club
+sys_ui46 indirect infection
+sys_ui47 Save
+sys_ui48 Warp
+sys_ui49 output
+ 
+// Misc System Messages 1 //
+sys_ui50 Are you sure you want to delete this cache file?
+sys_ui51 full time:
+sys_ui52 download
+sys_ui53 Delete
+sys_ui54 Start
+sys_ui55 dezin
+sys_ui56 interrupt
+sys_ui57 the most important part
+sys_ui58 IMAGE
+sys_ui59 STANDARD
+sys_ui60 IS WORKING.
+sys_ui61 DISCOUNT
+sys_ui62 CONFIGURE THE KEY
+sys_ui63 GETTER
+ 
+// Tutorial Messages //
+sys_tut01 Honua
+sys_tut02 Jump (stand up to jump up)
+sys_tut03 Narrow threshold exceeded
+sys_tut04 Open the directory
+sys_tut05 Please turn it upside down
+sys_tut06 Remote Attack-Press and hold the Remote Attack button
+sys_tut07 Avoid enemies and enemy attacks
+sys_tut08 Click the bell to keep progress and restore items
+sys_tut09 Use the provided label
+sys_tut10
+sys_tut11
+sys_tut12 Move / mark12
+sys_tut13 Russian Lele
+sys_tut14 Upload header
+sys_tut15 remote installation
+sys_tut16 roller
+sys_tut17 article
+sys_tut18 Modify the object
+sys_tut19 Director
+sys_tut20 Let's go back into the air and climb higher altitudes!
+sys_tut21 harta
+sys_tut22 upp
+sys_tut23 ner
+sys_tut24 hema
+sys_tut25 correct answer
+
+// Misc System Messages 2 //
+save_dia Safe steps!
+sys_dia00
+sys_dia01 -ZORLU! -
+sys_dia02 - DAMN! -
+sys_dia03 They found Ivory today!
+sys_dia04 Bellflower found.
+sys_dia05 You have astral beauty.
+sys_dia06 You have Edea's pearls.
+sys_dia07 found a cake.
+sys_dia08 Ble Missive has space.
+sys_dia09 Magnet found.
+sys_dia10 Becomes part of your life!
+sys_dia11
+sys_dia12 You have the pagoda key.
+sys_dia13 does not open from this page
+sys_dia14 is connected
+sys_dia15 used the main cloister.
+sys_dia16 Asterisk
+sys_dia17 Ewa
+sys_dia18 You have a gentle touch.
+sys_dia19 war bin duki
+sys_dia20
+sys_dia21 found a dirty room.
+sys_dia22
+sys_dia23 is using a garden key.
+sys_dia24 They found Cat Ball.
+sys_dia25 You have a torn industry.
+sys_dia26 I have a small cable.
+sys_dia27 Inspiration
+sys_dia28 found a callus flower!
+sys_dia29 Discovered by Hassel!
+sys_dia30 Discover Passiflora!
+sys_dia31 the whole site
+sys_dia32 Si
+sys_dia33 Maya
+sys_dia34 Golden clock.
+sys_dia35 display type
+sys_dia36 Thanks for trying this demo.
+sys_dia37 #Your hp has been extended.
+sys_dia38 # but your previous HP has been extended.
+sys_dia39 ?????
+sys_dia40 Connection key found.
+sys_dia41 I have a wallet.
+sys_dia42 karst badge that must pass
+sys_dia43 Attached connection key.
+sys_dia44 black bag available.
+sys_dia45 The skeleton looks at a smile.
+sys_dia46 Wash maple leaves in hibiscus tea?
+sys_dia47 has new spring pages.
+sys_dia48 storms.
+sys_dia49 got hard arrows.
+sys_dia50 Heif Passiflora.
+sys_dia51 High blood pressure.
+sys_dia52 You have a shell cookie.#The theme allows you to remove air!
+sys_dia53 You have a badge fraction!#Atoms give shooters the ability to charge quickly!
+sys_dia54 You have skin fragments!#The theme allows you to complete new levels of the curve!
+sys_dia55 You have skin cookies.#The theme allows you when you pray!
+sys_dia56 opens a "subtle" issue.
+sys_dia57 [Midna]
+sys_dia58 This sacred page has the#ability to clear the damned eye.
+
+// Area names //
+sys_area01 Forest of St. Ordali
+sys_area02 Inguge Karst
+sys_area03 Center for Devotees
+sys_area04 blonde binerd
+sys_area05 Whiteleaf Memorial
+sys_area06 Tell the time
+sys_area07 Art Gallery
+sys_area08 Bentegg car
+sys_area09 Frore Ciele
+
+// Boss names //
+sys_boss01 Arthropods are demons
+sys_boss02 Sorry my child
+sys_boss03 Mocha
+sys_boss04 Lobella Removal Guide
+sys_boss05 Page on Frida
+sys_boss06 Best Singer
+sys_boss07 Wild Astra
+sys_boss08 Royal Huntress Magnolia
+sys_boss09 Duchess of Lopiar
+sys_boss10 Queen Acrest Karst
+
+// Ending strings //
+sys_end01 Staff group:
+sys_end02 manages, manages
+sys_end03 application
+sys_end04 Art:
+sys_end05 'Music: John:
+sys_end06 options:
+sys_end07 Patriotism
+sys_end08 Thank you very much
+sys_end09 Thank you for paying.
+sys_end10 Then:
+sys_end11 Nhazi
+
+// NPC Messages //
+intro_npc_dia1 I'm afraid this#I can accept you.
+intro_npc_dia2 mixbin.|||||||||||||||||#The grammar#is clear!
+intro_npc_dia3 which,||||||||||||||||| For a priest like you,#this shouldn’t be a problem.
+intro_npc_dia4 The fight should be#fierce ...
+intro_npc_dia5 But I believe in your ability to#identify violations.
+intro_npc_dia6 It works in the world, |||||||||||||||#On the other hand
+intro_npc_dia7 During you can do#as much as you can with our princess.
+
+spider_dia01 £U-Uguu ...
+spider_dia02 £W- Not buying?
+
+newgameplus_dia01 Do you want to save the custom file?
+newgameplus_dia02 You liked it |||||||||||||| You are about to start a new journey from#the beginning, ||||||||||||| With a few changes
+newgameplus_dia03 Great!
+
+shop_dia01 Are you from the #destroyed forest ...?
+shop_dia02 Hello and ... # ||||||||||||||| Pleasantly
+shop_dia03 How can I help you?
+shop_dia04 Thank you!
+shop_dia05 You don't have enough eggs to buy.
+shop_dia06 Product name
+shop_dia07 Price
+shop_dia08 You already have this device.
+
+cath01_dia01 What are you looking for? # ||||||||||||||| I am a person |||||||||||| How are you.
+cath01_dia02 does not seem to be able#to defend himself.
+cath01_dia03 Trust me and ask for #shelter.
+cath01_dia04 |||||||||||||||||| My name is Kat. # ||||||||||||||||| I am a rich service#gentleman.
+cath01_dia05 That is why you are the priest of the moon. # ||||||||||||||| Are you looking for the Queen's help?
+cath01_dia06 |||| Kenny # ||||||||||| Kenny # ||||||||||||| You
+cath01_dia07 Do you think he is interested#in your small town?
+cath01_dia08 ||||||||||||||||||| Epo, |||||||||||||||| Here's the bad news.
+cath01_dia09 ||||||||||||||||| I heard rumors that a hidden#witch was hiding ...
+cath01_dia10 |||||||||||||||| It is very dangerous#to go to stad.
+cath01_dia11 |||||||||||||||||| If you have decided to meet#the Queen, ||||||||||||||| So far my advice is only #.
+cath01_dia12 No one wants to live in#this desert.
+cath01_dia13 Our whole kingdom looks like a grave. # ||||||||||||||| The number of deaths is increasing every day.
+cath01_dia14 ||||||||||||||||||| I have little more#than my#sister's memory, ||||||||||||||||| Katerina.
+
+cath02_dia01 Thanks for your help.#are you sad
+cath02_dia02 |||||||||||||But you may have heard#me.
+cath02_dia03 # (don't spend time with you #!
+cath02_dia04 This is good.
+cath02_dia05 I think something is wrong#with me.
+cath02_dia06 is a beautiful woman who served#happy||||||||||||| But now he's kind of#brave.
+cath02_dia07 Under these armies||||||||||||| nothing was lost.
+cath02_dia08 My opinion:|||||||||||||#Get rid of the queen.
+cath02_dia09 You said that evil had#come to your land.
+cath02_dia10 you have to choose a date with me,|||||||||||||#Special signal.
+cath02_dia11 is divided into four parts
+cath02_dia12 We have#no choice.
+cath02_dia13 We need a#good queen.
+cath02_dia14 Seema S,||||||||||||| When everything was over,#we ate again ...
+cath02_dia15 Erg!
+cath02_dia16 The first time I saw#the Bible.
+cath02_dia17 An interesting way to#go ...
+cath02_dia18 After obtaining the four districts,|||||||||||||#enter the#city.
+
+cath03_dia01 @£k ... £ |||||||||||||
+cath03_dia02 @ah ... |||||||||||||
+cath03_dia03 @Use ... # |||||||||||||
+cath03_dia04 @ake even ... hey ... ... £biqede
+cath03_dia05 £@Be happy
+
+citynpc01_dia01 Biography
+citynpc01_dia02 Citizens' Palace forgot#because this place is#cursed.
+citynpc01_dia03 If you want security, |||||||||||||
+citynpc01_dia04 @£What to look for ...
+
+church_dia01 Are you coming back? # |||| Are you looking for safety?
+church_dia02 hemet You can cancel#coin donations at any time. # Aselin.
+church_dia03 Make sure there are at least 15 # ducks.
+church_dia04 We are grateful for the Church. # You find peace.
+church_dia05 No cost to#write price.
+church_dia06 God loves#you.
+church_dia07 var- co
+church_dia08 Homer ...
+Church_dia09 We are now announcing#their fate as a small group of#princesses.
+church_dia10 Many people have#lost faith in God.
+church_dia11 Let him not be#accused of all evil.
+church_dia12 The church of St. Esselin is perfect. # Best wishes.
+church_dia13 You are safe with us here.
+
+choir_dia01 Our prayers are answered ||||||||||||||||
+choir_dia02 Grade
+choir_dia03 peas in a bowl
+choir_dia04 His mercy is infinite#||||||||||||||||#and does not allow liars to eat
+choir_dia05 Let us pray for the souls of others#||||||||||||||||and for those who walk in the dark#||||||||||||||||under the protection of our Lord Jesus Christ. .
+choir_dia06 @thank you||||||||||||||||
+choir_dia07 Enter here
+choir_dia08 My sister, of course
+choir_dia09 Are you doing#me a favor?
+choir_dia10 has become a softer design
+choir_dia11 Thank you for your kindness
+choir_dia12 as a dead sister
+choir_dia13 I just can't play what I want #|||||||||||||||| Pray in peace for your soul
+choir_dia14 Cantor Domine 14 Dominus Eserin, |||||||||||||| # at a ...
+
+fennel_dia01 £@at ...#in ...? ||||||
+fennel_dia02 The queen destroys#Sultana's trust.
+fennel_dia03 Koperkowa,|||||| Our world,||||||
+fennel_dia04 Happy girl ... #|||||||| You are not one of us
+fennel_dia05 Maybe you are on#the queen's side?
+fennel_dia06 Look what it does#in this case.
+fennel_dia07 I have the right to#remove this guilt.
+
+moka01_dia01 What?
+moka01_dia02 thank you |||||||| Looks like a #alienner missionary ...
+moka01_dia03 @ KO
+moka01_dia04 ...#||||||||The rotten bodies of many#of my wife's servants!
+moka01_dia05 £oliswa_dladla
+moka01_dia06 £ You can't waste time # I'm with you!
+moka02_dia01 ...!||||||||#IsiSu
+moka02_dia02 £sbongiseni mdletshe LE ...! |||||||||| Cha cha cha cha! ||||||||||#LE ៉  LE LE LE LE !!!
+
+paramol_dia01 Don't get too close.
+paramol_dia02 E. |||||||||||| # You are smart enough.
+paramol_dia03 Are you a priest of#the royal court?
+paramol_dia04 In its current state, ||||||||||| It is#very difficult to get to the palace.
+paramol_dia05 It won't be easy to get help in this # city, |||||||||| Like this ...
+paramol_dia06 My manager # thought he could train you.
+paramol_dia07 he Lived in the monastery # the city was surrounded by cats.
+paramol_dia08 Have you seen # residents of this city?||||||||||# Everything is missing.
+paramol_dia09 Fear destroys our conscience. ||||||||||| # Watch out.
+paramol_dia10 Are you listening? # |||||||||||||| I'm sorry Old Brother # is awful again.
+paramol_dia11 he He is one of the bailiffs for the #ConventionGenerale.
+paramol_dia12 You may like#to date it.
+
+cotti_dia01 If the opposite of this #monastery was not an invisible face.
+cotti_dia02 In February, |||||||||||| I understand. # ||||||||||||Please give me Kotyar.
+cotti_dia03 O? #|||||||||||||| Have you met Paramol?
+cotti_dia04 Ke ke ke ... # |||||||||||| There is a lot of innocence.
+cotti_dia05 Laila, |||||||||||| You are afraid of your own home. # |||||||||||| Of course, darkness prevents your people#from coming.
+cotti_dia06 |||||||||||| Our Queen was blind and#many did not die. ||||||||||||
+Cotti_dia07 She is responsible for many deaths. ||||||||||||# Not only here, but also in other countries ||
+Cotti_dia08 @Ke ke ke ... @
+cotti_dia09 You can go to the castle.
+cotti_dia10 By the way # You need to know yourself.
+cotti_dia11 Tha, ||||||||||||| It should help you a little
+cotti_dia12 Please note. ||||||||||||| # It's only been a year since#we started |||||||||||| But most of our#population is medium.
+cotti_dia13 This site is banned by #Nobleza ||||||||||||| So it's good to#look out
+cotti_dia14 You seem to have succeeded. |||||||||||||#Good
+cotti_dia15 @ Reason for conflict, ||||||||||||| # кекеке ..
+cotti_dia16 When the artist reached#the bottom, || I wasn't expecting#this result.
+cotti_dia17 Probably not?
+cotti_dia18 looks forward to the success of#promotion ||||||||||||Virgo from the Moon.
+cotti_dia19 See remaining stability|||||||||||||#if he's not afraid.
+cotti_dia20 Ke ke ... # || You are a beautiful kitten.
+
+eri01_dia01 He finally left the cell.
+eri01_dia02 This place must be safe # This place seems completely#deserted.
+eri01_dia03 So ... # ||||||||||||||| ... Where else should the forest go ...?
+eri01_dia04 H- £.
+eri01_dia05 @ What happened to this uniform ...? ||||#@~~~~~~~~~~~~~~~~~~~~~~~~~~~#~~~~~~~~~~~~~~~~~~~~~~~~~~~#~~~~~ only #@ Min int; !! # Try it for yourself |||||||||||| ... Now!
+eri01_dia06 pretended?
+eri01_dia07 This is a friendly warning: you will no#longer find protection in this area.
+eri01_dia08 rumors ||||||||||||| The queen is calling # Chorą Burza ||||||||||||| from his castle ||||||||||||| What is spread#around the world ...
+eri01_dia09 is looking for |||||||||||| ... Offending # bad people
+eri01_dia10 Escape from here and save#yourself as much as possible.
+
+eri02_dia01 I'm glad you're#still alive.
+eri02_dia02 I don't think they showed them#to me last time.
+eri02_dia03 My name is Eri. # ||| ## For many years.
+eri02_dia04 Yabụ, ||||||||||||||||||||||||| # I came to the west.
+eri02_dia05 Hmm. ||| ## Here all places will be safer. ||| ### Here is ...
+eri02_dia06 Our ... |||||||||||| #son perfectos, |||
+eri02_dia07 Let's die there, ||||||||||||||||| # Don't you know?
+eri02_dia08 I ... |||||||||||# You're right.
+eri02_dia09 Ah ... Thank you. # ||||| # Your words give me hope.
+eri02_dia10 I will return to the jungle # eighth. ||| ## The Queen of Curses#protects the area.
+
+eri03_dia01 Ah,||||||||||||| how is it going?
+eri03_dia02 I see.#You've come from far away,||||||||||||| and even#your homeland is being affected by our curse...
+eri03_dia03 Hey!#£That Hazel Badge!£
+eri03_dia04 I wonder if you'd be willing to trade it#for this special item I possess?
+eri03_dia05 Thank you.
+eri03_dia06 If you change your mind,#||||||||||||||||I'll be waiting.
+eri03_dia07 Got Blessing Charm!
+eri03_dia08 Have faith,|||||||||||||||| Kaho.#I know things will turn out better soon!
+eri03_dia09 I'm sorry...
+
+florist_dia01 Ah ... Hello # How can I help you?
+florist_dia02 You see parts of#the state being cursed by evil.
+Florist_dia03 This area has moved a lot#and is now polluted by dead spirits.
+florist_dia04 @ So my precious plants are#dried in this poor place. Benin@
+florist_dia05 Rare animal found#hand in hand.
+florist_dia06 If you meet one of them # |||||||||| Give him #just as much as you can.
+florist_dia07 error found! # Play.
+florist_dia08 Thank you ||||||||||
+florist_dia09 You're not paying!
+florist_dia10 punt! ra Extra Error! |||||||||||||
+florist_dia11 I think there are#about 20 horns ...
+florist_dia12 Junior provides||||||||||  essential nutrients#for my plants.
+florist_dia13 Thank you for the#mistakes you made for me.
+
+impnpc_dia01 I have nothing to#do with you.
+impnpc_dia02 Go to page |||||||||||| stupid girl!
+impnpc_dia03 @ cucumber, |||||||||||| Yunba... @#£ Palapalla Booth...?
+impnpc_dia04 £P-Help?
+impnpc_dia05 Brought a dirty room.
+impnpc_dia06 Thank you, |||||||||||| Men and women!
+impnpc_dia07 Dito, |||||||||||| Drop the best.
+impnpc_dia08 There is a damn lily of the valley.
+impnpc_dia09 Amount - say ...
+
+himehorn_dia01 £ Uu ... |||||| #Nohorn, |||||| Go home!
+himehorn_dia02 £ Αααα ... |||||| # My cake ...
+
+askorn01_dia01 £@using the system.
+askorn01_dia02 I'm sorry, |||||||||||||||||||| who are you
+askorn01_dia03 Let me see.#|||||| -SaSuremaSaSurema-SekaNau!.#! Then you deny it? || -Fifth
+askorn01_dia04 I am a Asker.#||||||||Culture-like Shuwah!
+askorn01_dia05 You called your trip #Here is you looking for #Mambokadzi ...
+askorn01_dia06 If you want to stay in #karst state, do so
+askorn01_dia07 Great beauty # It covers everything.
+askorn01_dia08 This sacred forest is not one of#the few places used.
+askorn01_dia09 is in front of Karst Town. #Now how dangerous it is, I have to see her #find a lover.
+askorn01_dia10 I fell asleep a hundred years ago.#|||||||| Simpsuit!
+askorn01_dia11 The people come to this garden#and worship the supreme deity.
+askorn01_dia12 The people of this world have lost#confidence||||||||||| but it is still in my body.
+askorn01_dia13 Maybe the behavior of unbelievers#has given us our situation ...?
+
+askorn02_dia01 Hello, ||||||||||||| What!
+askorn02_dia02 Please help in every way!
+askorn02_dia03 Thanks.
+askorn02_dia04 I was in jail, ||||||||||||| # I am afraid all my hopes#will disappear.
+askorn02_dia05 Now you can still find your wife.
+askorn02_dia06 We both died a long time ago, ||||||||||| However, the #dead people seem to have crossed#the boundaries of this world.
+askorn02_dia07 There is so much more to say. || "||||||||# I will see him and#escape from this desolate city.
+askorn02_dia08 See that you are still in the #song.
+askorn02_dia09 The clothes#you wear ...
+askorn02_dia10 Nothing in#this world, ||| I'm right
+askorn02_dia11 No problem.
+askorn02_dia12 ||||||||||||||| # None of us should take the#initiative without indifference.
+askorn02_dia13 This is close to. # be careful!
+askorn02_dia14 Wealth and Respect #for a long time, |||||||||| Productivity.
+askorn02_dia15 As required
+askorn02_dia16 # No more left.
+
+askorn03_dia01 @||||Dear Cecilia...
+askorn03_dia02 @.
+
+fishgirl_dia01 Funten, ||||||||| We must find a way#out of this cell.
+fishgirl_dia02 The magic of this situation has spread#to Western countries, |||||| mine family
+fishgirl_dia03 @Please lend me...|||||| # Don't leave me alone here...
+fishgirl_dia04 looking for a way to stop this...
+
+nutmeg_dia01 huh? # |||||||||||| W- |||||||||||| ????? Who !! |||||||||||||| And # How did you get here? !!
+nutmeg_dia02 £ I, |||||||||||||| Out! |||||||||||||| # Now! |||||||||||||||| # You scare me!
+nutmeg_dia03 £Are you here? # ||||| A- What do you want to do? !!
+nutmeg_dia04 not |||||||| You, Maruhanu, are everything.
+nutmeg_dia05 I'm Muscat Liz. ||||||||||| The C-Keeper#Prince Pinakothek.
+nutmeg_dia06 I said # before: go out.
+nutmeg_dia07 Continued # Asking why it is ||||||||||| But no.
+nutmeg_dia08 I'm done with #Queen ...?
+nutmeg_dia09 not ||||||||||| This is great. |||||||||| # Bhim ...
+nutmeg_dia10 not |||||||||||||| That was good.
+nutmeg_dia11 I'm glad I'm alive and breathing. ||||||||||||| # Don't worry. ||||||||||||| Anyway ||||||||||||| Your time is coming.
+nutmeg_dia12 £ Ne he he # he he he ...
+nutmeg_dia13 Now ||||||||||||||||| We're on the way to # scary. # Show our # best.
+
+merlot_dia01 Oh ... who are you? # Come from the south
+merlot_dia02 is known around you ... # There is a special climate.
+merlot_dia03 Feuch, |||||| <<< Come with us. # |||||||
+merlot_dia04 But ... it seems you can control #.
+merlot_dia05 What we remember in the past is that #frutas is our memory.
+merlot_dia06 Personal treasure not#stored elsewhere.
+merlot_dia07 The past does not exist ... # We have it now.
+
+mallory_dia01 This building is damaged ...
+mallory_dia02 darpa,|||...
+mallory_dia03 I'm glad we found you. ||||#... |||#Single.
+mallory_dia04 Death comes every day, ||||#Every minute  ||||
+mallory_dia05 Because it is, we do # important things every day.
+
+lupiar_dia01 So, you are the one#involved in phenol.
+lupiar_dia02 Come back, |||||||||||| Foreign. # |||| <<<
+lupiar_dia03 Esou to Feeler ...
+lupiar_dia04 Magnolia!
+magnolia_dia01 I know what you ... ||||||||||||| #£@ cough..
+magnolia_dia02 Sorry, |||||||||| # You are against our queen ...
+magnolia_dia03 Houscht £@ cough... ||||||||| # Connect to Glawen
+magnolia_dia04 @£ Queen never ... |||||| # Are you worried about yourself ... || ...
+
+prudence_dia01 You cheat on me.
+prudence_dia02 £oow Meow ... £ ||||||||| # Welcome to Krasov Castle, || Man.
+prudence_dia03 This black dress ... |||||||...
+prudence_dia04 £ow Meow ... £ ||||||||| # Maybe # Movies can't save us.
+prudence_dia05 £oow Meow ... £ |||||||||...
+prudence_dia06 You may need #special luck to clean up this flight ... | # ow You and Hehe ..
+
+// Bad ending
+ending_dia01 Note by End_dia01: |||||||||||| # Leader of the Democratic Party, |||||||||||||||| # The signs of abuse have failed.
+ending_dia02 The living world is much easier#than the power of the ghosts. |||||||||||||| Spread #problems all over the world
+ending_dia07 Good result.
+
+// Good ending
+ending_dia03 When a curse comes from the village of Lun #|||||||||||| priest has to seal a sacred mission # sent.
+ending_dia04 The priestess has conquered the darkness,|||||||||||||| has stopped#spreading the curse and drawn her into the#body,||||||||||||but has temporarily disappeared.
+ending_dia05 Now there are only a few stories#left, ||||||||||||||||||||| it's a tradition, like a tradition.
+ending_dia06 But||||||||||||||his dwindling mind#leads the young prince||||||||||to seek peace.
+
+dev_dia01 Welcome to the EV ARGAMAN ROOM. # Well done.
+dev_dia02 Here I meet the# development company.
+dev_dia03 To move|||||||| # to the left.
+dev_dia04 rdein: hey! Hope you like #Momodora.
+dev_dia05 rdein. Whatever we do next,#I hope you look forward to it too.
+dev_dia06 PKBT: ...? |||||||||||||||| #Quote from my cinema ...?
+dev_dia07 PKBT. I didn't think of one thing ...
+dev_dia08 PKBT. Then he said I need laziness ... #||||||||||||||||I guess you could say that ...
+dev_dia09 Hernan. You can achieve anything by#trusting it.
+dev_dia10 Hernan. Don't give up guys.#See you in the future.
+dev_dia11 ...
+dev_dia12 Evil Warrior; £woman!
+dev_dia13 then. I'm not for this game
+
+// Item Messages //
+item_name_01 nani kani
+item_name_02 sacrifice lei
+item_name_04 Campanula
+item_name_05 magician
+item_name_06 Margarita Eeas
+item_name_07 Manoa lei
+item_name_08 Red mouse
+item_name_09 Market Stone
+item_name_10 popopo Tinker Bell
+item_name_11 Fairy site
+item_name_12 
+item_name_13 corrupt glass
+item_name_14 the flower of lust
+item_name_15 items and mirrors
+item_name_16 Sold medal
+item_name_17 Invalid entry
+item_name_18 black bag
+item_name_19 
+item_name_20 
+item_name_21 gaura momoloku
+item_name_22 small area
+item_name_23 Backman-hue
+item_name_24 Cat ball
+item_name_25 Alum symbol
+item_name_26 members
+item_name_27 Rocks Rocks
+item_name_28 
+item_name_29 Karst Shield
+item_name_30 
+item_name_31 Fragment of clarity
+item_name_32 worm
+item_name_33 
+item_name_34 Ivory Scarab
+item_name_35 Little Sprite
+item_name_36 soft root
+item_name_37 in the key
+item_name_38 Rare text
+item_name_39 thanks
+item_name_40 main map
+item_name_41 bloody clothes
+item_name_42 
+item_name_43 Source Tree
+item_name_44 Element
+item_name_45 Birthstone
+item_name_46 short
+item_name_47 Borepil
+item_name_48 Wind is forbidden
+item_name_49 Draw the lime
+item_name_50 garment
+item_name_51 Emblem fragment
+item_name_52 character group
+item_name_53 garment
+
+item_effect_01 Result: The image could not be saved again.
+item_effect_02 Actual result: increases health problems by 100%.
+item_effect_04 Impact: Minimum profit used in HP.
+item_effect_05 Effective form: two enemies can be killed before the tower is built.
+item_effect_06 Passport problem: let the flash come into contact with toxic chemicals.
+item_effect_07 Passport issue: let the flash come into contact with toxic chemicals.
+item_effect_08 Passport: Gives a small amount of HP for each fight, but # the enemy does nothing.
+item_effect_09 Actual result: how to draw letters.
+item_effect_10 Effect: Toxic user.
+item_effect_11 Weaknesses: Increases the risk for sick users.
+item_effect_12 
+item_effect_13 passport effect: HP survives even if everyone dies during use.
+item_effect_14 : Total cost per HP customer.
+item_effect_15 Impact: The offensive force increased by only 50%.
+item_effect_16 Exit Exit: Return to HP in the morning.
+item_effect_17 Final result: 100% discount, price # HP.
+item_effect_18 Popularity: A very famous attacking force, for fear of losing #HP.
+item_effect_19 
+item_effect_20 
+item_effect_21 Passport issue: noise near hidden objects.
+item_effect_22 nanikamu.
+item_effect_23 Result: Call Kuia and finish.
+item_effect_24: communication between cats and humans.
+item_effect_25 nanikamu.
+item_effect_26 Effect Effect: Gives little HP per lesion.
+item_effect_27 ikamu.
+item_effect_28 Required.
+item_effect_29 ikamu. Avoid changes.
+item_effect_30 
+item_effect_31 : Back to the dark room.
+item_effect_32 ikamu.
+item_effect_33 
+item_effect_34 unique.
+item_effect_35 Effective anchor: adds black poison.
+item_effect_36 Result: Create power consumption.
+item_effect_37 ikamu.
+item_effect_38 Benefits of action: Strong stimulant.
+item_effect_39 Good: provides protective lighting.
+item_effect_40 passport problem: increases the power of flowers.
+item_effect_41 Impact impact: lost.
+item_effect_42 ikamu ya'.
+item_effect_43 unique.
+item_effect_44 Effective anchor: Increases attack fire.
+item_effect_45 ikamu.
+item_effect_46 Passport number: University fees have risen significantly.
+item_effect_47 Additional effect: Arrow to shoot enemies.
+item_effect_48 : Van Magic.
+item_effect_49 ikamu.
+item_effect_50. Fresh garlic ensures an airy level.
+item_effect_51 nanikamu. Eat flowers early.
+item_effect_52 . army distinction
+item_effect_53 imagine something. Avoid changes.
+
+item_lore_01 Filtering graphics in deep rivers. The song#comes from the Midwestern # realm, as you can see from the filming.
+item_lore_02 Small universe. # Consumers have found strength in their special blessing #, in the rehabilitation of the lost.
+item_lore_04 Bitter flowers with regenerating power.
+item_lore_05 old-fashioned and old-fashioned charm. # This will greatly increase your wealth.
+item_lore_06 The sinner is Edea, to betray his people. # As a result, he was cleansed and his body moved#from the house to the sacred forest.
+item_lore_07 The pearl is like a rare stone in an animal.
+item_lore_08 #The ring is made of blood, able to clear the remains of fallen enemies.
+item_lore_09 Strange stone, rarely found on top.
+item_lore_10 Karst dear. # Keep your baptism name secret # to avoid evil.
+item_lore_11 Strong angel qualities. # A little hidden light.
+item_lore_12 
+item_lore_13 
+item_lore_14 Strange cut flower in the #Whiteleaf dry park.
+item_lore_15 Soft crystal core. # It is very difficult to get the full price, # humility.
+item_lore_16 Chrominia Division Base. # Stable of angels, # Participate in the long journey of his life.
+item_lore_17 # Esselin's followers apologize, # but his thoughts are full of hatred and hatred.
+item_lore_18 # Put the box in the box. # The smell may suddenly occur.
+item_lore_19 
+item_lore_20 
+item_lore_21 There is always a demand for a ring at the best price. # Many are unaware of privacy.
+item_lore_22 Simple gifts are a special theme.
+item_lore_23 Fixed object. # This is Moka, the devil-worshiper # Lubela witch.
+item_lore_24 Unknown spell. # Looks like a normal crystal ball.
+item_lore_25 # This obvious object represents an owl.
+item_lore_26 Whiteleaf Park, controlled by the Queenle spell, has disappeared behind the city's #vale. # Ghosts and demons haunt you from the grave like # Immortal Witch Lubela.
+item_lore_27 # Opening of the Asselin Monastery. # You have left the monastery and the seals # When you fall into the hands of uncontrolled magic.
+item_lore_28 The symbol part of the modern karas # command. # Four organizations must take the lead at the gates of the throne.
+item_lore_29 Reaching the ram castle. # A design that unites people, gods and the crown. It doesn't matter now.
+item_lore_30 
+item_lore_31 According to karst habits, they are placed in the #grave as victims of the dead. It is believed that the#light will come back to life at the same time.
+item_lore_32 Great white material is great ... # Ordinary girls love it.
+item_lore_33 
+item_lore_34 Harmless small animals # This creature feeds the bodies of sick creatures # and kills their illness.
+item_lore_35 An unknown substance is leaking somewhere. #Karstborna is in transition after the curse, she#isn't really alive and dead.
+item_lore_36 A magical material used by Esserin nuns for operation.
+item_lore_37 Mosquito # The word karst contains an inscription, but # is almost unreadable.
+item_lore_38 Frida, which appears to be unused, has been dumped in a tomb#under the capital #. It's hard to say if he's ever#been in human form or what he was ...
+item_lore_39 Assistance for the protection#of children of karst origin.
+item_lore_40 Karst Archery Master, Magnolia Weapon # Growing up in the woods, joining the Karst # Knight, and joining the Faithful Rupiah.
+item_lore_41 Dust soaked with the "holy" words of the high priest.#Unlike her sister, #fenchel stuck to her faith and confronted the Queen.
+item_lore_42 Holy Leaf of the Moon # Blessed by the Mother of the Tree, this leaf is indestructible,#sharp enough to wipe out enemies, and is the main weapon#of the western priest.
+item_lore_43 A green leaf blessed with holy tea can # deepen cursed people # unpleasant power # this leaf is greater than a normal maple leaf.
+item_lore_44 A magic pot full of coal and incense.
+item_lore_45 Karst Queen's personal belongings. # Infected with greed, the Queen got angry, # tried to regain the lives of the living and the dead.
+item_lore_46 A special type of arrow used in karst archery.
+item_lore_47 A special type of arrow used in karst archery.
+item_lore_48 A wooden box containing a sacred spell # Sends a strong wind.
+item_lore_49 Used to close the door of the ash chamber, which is the auxiliary building # of the Esserin Monastery.
+item_lore_50 The part of the emblem that shows the current #Karst function. # You need four groups to reach the area with the gates.
+item_lore_51 Part of the karst emblem representing the current government ## City Gate Area # You need four locations to reach.
+item_lore_52 Part of the emblem representing the current government of the karst ## Gate area # You need four places to reach.
+item_lore_53 Part of the emblem representing the current government of the karst ## Connected to the castle gate # You need four parts to enter the area.
