@@ -1,15 +1,13 @@
 # momodoraRUTM-Poorly-Translated
 The text in Momodora:RUTM has been run through many different languages, then back to English, providing an intriguing and sometimes laughable result.
 
-!Notice!
+**!Notice!**
 Make sure to back up your old language files first. If you forget, I have provided the original English file: "vanilla_sentences.msf". Just rename it to "sentences.msf" first.
 
-How to install:
-
+*How to install:*
 Replace the language file of your choice with the provided sentences.msf
 
-Where?
-
+*Where?*
 Find the local files for your installation of Momodora:RUTM
 
 Ex. (Steam):
