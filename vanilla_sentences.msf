@@ -1,0 +1,694 @@
+﻿
+header_info MOMODORA IV GAME TEXT. ENGLISH LANGUAGE
+
+// Symbology info
+// # --- > line break
+// | --- > pause in text (use many in a row)
+// @ --- > grey text
+// £ --- > shakey letters
+
+// Languages - DO NOT TRANSLATE THESE //
+sys_lang01 English
+sys_lang02 日本語
+sys_lang03 Español
+sys_lang04 Français
+sys_lang05 Deutsch
+sys_lang06 Português
+sys_lang07 Русский
+sys_lang08 Italiano
+sys_lang09 简体中文
+sys_lang10 한국어
+sys_lang11 Dansk
+
+// UI / System Messages //
+sys_ui01 Press Any Button
+sys_ui02 Empty file
+sys_ui03 Slot
+sys_ui04 -Select Control Type-
+sys_ui05 FULLSCREEN
+sys_ui06 -Paused-
+sys_ui07 RESUME
+sys_ui08
+sys_ui09 RETURN TO TITLE SCREEN
+sys_ui10 QUIT
+sys_ui11 -SETTINGS-
+sys_ui12 SOUND VOLUME
+sys_ui13 MUSIC VOLUME
+sys_ui14 SCREEN RESOLUTION 
+sys_ui15 GRAPHICAL QUALITY
+sys_ui16 Low
+sys_ui17 Medium
+sys_ui18 High
+sys_ui19 LANGUAGE
+sys_ui20 CONTROL TYPE
+sys_ui21 APPLY CHANGES
+sys_ui22 BACK
+
+// Difficulty modes and their descriptions; Game over messages
+sys_ui23 -Select Difficulty-
+sys_ui24 Easy
+sys_ui25 Normal
+sys_ui26 Hard
+sys_ui27 Insane
+sys_ui28 For people who aren't used to playing videogames.
+sys_ui29 For people who are used to playing sidescrolling games.
+sys_ui30 A tougher challenge!#Not recommended for first-time players.
+sys_ui31 Don't even try this.
+sys_ui32 YOU DIED
+sys_ui33 RETRY
+
+// Pause menu
+sys_ui34 EQUIPMENT
+sys_ui35 KEY ITEMS
+sys_ui36 MAP
+sys_ui37 SETTINGS
+sys_ui38 Select
+sys_ui39 Confirm
+sys_ui40 Cancel
+sys_ui41 Close
+sys_ui42 Keyboard
+sys_ui43 Controller
+sys_ui44 Controller (Alt.)
+sys_ui45 Active Slots
+sys_ui46 Passive Slots
+sys_ui47 Save
+sys_ui48 Warp
+sys_ui49 Inventory
+ 
+// Misc System Messages 1 //
+sys_ui50 Delete this save file?
+sys_ui51 Total playtime:
+sys_ui52 Load
+sys_ui53 Delete
+sys_ui54 Start
+sys_ui55 Settings
+sys_ui56 Quit
+sys_ui57 Key Items
+sys_ui58 SCREENSHAKE
+sys_ui59 DEFAULT
+sys_ui60 ON
+sys_ui61 OFF
+sys_ui62 CUSTOMIZE KEYS
+sys_ui63 VIBRATION
+ 
+// Tutorial Messages //
+sys_tut01 Movement
+sys_tut02 Jump (Hold to jump higher)
+sys_tut03 Traverse narrow platforms
+sys_tut04 Open Menu
+sys_tut05 Melee attack
+sys_tut06 Ranged attack - Hold the button for a charged shot
+sys_tut07 Dodge through enemies and enemy attacks
+sys_tut08 Hit Bells to save progress and restore your items
+sys_tut09 Use Equipped Item
+sys_tut10 
+sys_tut11 
+sys_tut12 Movement / Selection
+sys_tut13 Jump
+sys_tut14 Melee attack
+sys_tut15 Ranged attack
+sys_tut16 Roll
+sys_tut17 Item
+sys_tut18 Switch Item
+sys_tut19 Menu
+sys_tut20 Jump again mid-air to reach greater heights!
+sys_tut21 Map
+sys_tut22 Up
+sys_tut23 Down
+sys_tut24 Left
+sys_tut25 Right
+
+// Misc System Messages 2 //
+save_dia Progress saved!
+sys_dia00 
+sys_dia01 -POISONED!-
+sys_dia02 -CURSED!-
+sys_dia03 You found an Ivory Bug!
+sys_dia04 Got Bellflower.
+sys_dia05 Got Astral Charm.
+sys_dia06 Got Edea's Pearl.
+sys_dia07 Got Bakman Patch.
+sys_dia08 Got Tainted Missive.
+sys_dia09 Got Magnet Stone.
+sys_dia10 You found a Vitality Fragment!
+sys_dia11 
+sys_dia12 Got Monastery Key.
+sys_dia13 Does not open from this side
+sys_dia14 Locked
+sys_dia15 Used Monastery Key.
+sys_dia16 Talk
+sys_dia17 Pray
+sys_dia18 Got Soft Tissue.
+sys_dia19 Got Garden Key.
+sys_dia20 
+sys_dia21 Got Dirty Shroom.
+sys_dia22 
+sys_dia23 Used Garden Key.
+sys_dia24 Got Cat Sphere.
+sys_dia25 Got Torn Branch.
+sys_dia26 Got Sparse Thread.
+sys_dia27 Inspect
+sys_dia28 Received Bellflower!
+sys_dia29 Received Hazel Badge!
+sys_dia30 Received Passiflora!
+sys_dia31 MAP COMPLETION:
+sys_dia32 Yes
+sys_dia33 No
+sys_dia34 It's a golden bell.
+sys_dia35 Demo Version
+sys_dia36 Thank you for trying this demo version!
+sys_dia37 #Your HP has been increased.
+sys_dia38 #But your HP is already maxed.
+sys_dia39 ?????
+sys_dia40 Got Cinder Key.
+sys_dia41 Got Pocket Incensory. 
+sys_dia42 Karst Crest needed to pass
+sys_dia43 Used Cinder Key.
+sys_dia44 Got Black Sachet.
+sys_dia45 This skull appears to be laughing.
+sys_dia46 Bathe Maple Leaf in Hibisco tea?
+sys_dia47 Got Fresh Spring Leaf.
+sys_dia48 Got Sealed Wind.
+sys_dia49 Got Heavy Arrows.
+sys_dia50 Got Passiflora.
+sys_dia51 Got Bloodstained Tissue.
+sys_dia52 You found a Crest Fragment!#Its essence grants you the ability to dodge mid-air!
+sys_dia53 You found a Crest Fragment!#Its essence grants you the ability to charge arrows faster!
+sys_dia54 You found a Crest Fragment!#Its essence grants you the ability to a new bow charge level!
+sys_dia55 You found a Crest Fragment!#Its essence grants you the ability to warp when praying!
+sys_dia56 Unlocked 'Insane' difficulty!
+sys_dia57 [None]
+sys_dia58 This blessed leaf is able to#purify the source of the curse.
+
+// Area names //
+sys_area01 Sacred Ordalia Grove
+sys_area02 Karst City
+sys_area03 Forlorn Monastery
+sys_area04 Subterranean Grave
+sys_area05 Whiteleaf Memorial Park
+sys_area06 Cinder Chambers
+sys_area07 Royal Pinacotheca
+sys_area08 Karst Castle
+sys_area09 Frore Ciele
+
+// Boss names //
+sys_boss01 Arthropod Demon Edea
+sys_boss02 Pardoner Fennel
+sys_boss03 Moka
+sys_boss04 Lubella, the Witch of Decay
+sys_boss05 Derelict Frida
+sys_boss06 Archpriestess Choir
+sys_boss07 Heretical Arsonist
+sys_boss08 Royal Huntress Magnolia
+sys_boss09 Duchess Lupiar
+sys_boss10 Accurst Queen of Karst
+
+// Ending strings //
+sys_end01 STAFF ROLL
+sys_end02 Directed and Designed by
+sys_end03 Programming
+sys_end04 Art
+sys_end05 Music and Audio
+sys_end06 Voices
+sys_end07 Patreon Supporters
+sys_end08 Special Thanks
+sys_end09 Thank you for playing!
+sys_end10 The End
+sys_end11 Localization
+
+// NPC Messages //
+intro_npc_dia1 I'm afraid this is as far as#I can take you.
+intro_npc_dia2 I'm sorry.|||||||||||||||||#Anything close to the city#is too dangerous.
+intro_npc_dia3 Surely,|||||||||||||||| that shouldn't be a problem#for a priestess like you.
+intro_npc_dia4 Fighting using a leaf#must be difficult...
+intro_npc_dia5 But I have faith in your ability to#seal the curse away.
+intro_npc_dia6 It has spread to your land too,||||||||||||||||||||||#after all.
+intro_npc_dia7 For now, maybe the best you can do#is seek an audience with our Queen.
+
+spider_dia01 £U-Uguu...
+spider_dia02 £W-wanna buy...?
+
+newgameplus_dia01 Would you like to save#over your current file?
+newgameplus_dia02 By doing so,||||||||||||||||||| you'll start a new journey from#the very beginning,||||||||||||||||| with some changes.
+newgameplus_dia03 Alright, then!
+
+shop_dia01 You came from that imp-infested#forest...?
+shop_dia02 Hi ha ha...#|||||||||||Interesting.
+shop_dia03 How can I help you?
+shop_dia04 Thank you!
+shop_dia05 You do not have enough munny to buy that.
+shop_dia06 Item Name
+shop_dia07 Price
+shop_dia08 You already own this item.
+
+cath01_dia01 What are you looking at?#||||||||||I'm human,|||||||||||| like you.
+cath01_dia02 You don't seem very capable#of protecting yourself.
+cath01_dia03 Take my word and look#for shelter.
+cath01_dia04 |||||||||My name is Cath.#||||||||||||||||I'm a knightess in service#of the kingdom.
+cath01_dia05 So, you are a priestess from Lun.#||||||||||||And you're seeking the Queen's aid?
+cath01_dia06 ||||Ha.#||||Ha.#|||||||Ha.
+cath01_dia07 You think she has any interest#in your little village?
+cath01_dia08 ||||||||||||Well,||||||||||| here's some bad news.
+cath01_dia09 |||||||||||||||I've heard rumors of an undead witch#lurking around...
+cath01_dia10 |||||||||Progressing deeper into the city#is very risky.
+cath01_dia11 ||||||||||||If you are adamant about meeting#with the Queen,||||||||||||||| my advice only goes#so far.
+cath01_dia12 No one wants to be in#this forsaken city any longer.
+cath01_dia13 Our entire kingdom feels like a grave.#||||||||||||||||The death count keeps going up#daily.
+cath01_dia14 ||||||||||I don't have much left other#than the memory of my#sister,||||||||||||||| Cathryn.
+
+cath02_dia01 Thank you for your assistance.#Are you hurt?
+cath02_dia02 Since you're still around,||||||||||||| perhaps#you'll hear me out.
+cath02_dia03 You damn roach.|||||||||||||#I'm not wasting my time#with you!
+cath02_dia04 Good.
+cath02_dia05 I've suspected something was amiss#up there at the castle.
+cath02_dia06 The Queen I once served was noble and#caring,||||||||||||| but now she's turned into a#morbid figure.
+cath02_dia07 Anything under her direct control is lost,|||||||||||||||||#so I've deserted her order of knights.
+cath02_dia08 Here's my proposal:||||||||||||#taking down the Queen.
+cath02_dia09 You mentioned her curse has#reached your homeland.
+cath02_dia10 Should you choose to side with me,|||||||||||#you're going to need a special crest.
+cath02_dia11 It was split into four pieces.#One of its fragments should be#around here...
+cath02_dia12 It seems we don't have#many alternatives.
+cath02_dia13 We have to behead the#lovely Queen.
+cath02_dia14 S-say,|||||||||||| maybe we should hang out#more once all of this is done...
+cath02_dia15 Argh!
+cath02_dia16 It's my first time seeing a sacred#leaf in action.
+cath02_dia17 Certainly an interesting way of#fending off enemies...
+cath02_dia18 Once you have the four parts,|||||||||||||||||||#head to the locked door at the#entrance of the city. 
+
+cath03_dia01 @£K...£ |||||||||||||||Kaho...
+cath03_dia02 @Ah... |||||||||||||||||Hah...
+cath03_dia03 @Please...#|||||||||||||||||||||||end my suffering...
+cath03_dia04 @Make the pain... s...£top...
+cath03_dia05 £@...
+
+citynpc01_dia01 I'm not scared.
+citynpc01_dia02 The royal court has been ignoring us#citizens ever since this kingdom#fell to a curse.
+citynpc01_dia03 If you want to stay safe,||||||||||||||#don't leave outside.
+citynpc01_dia04 @£Make this stop...
+
+church_dia01 A neophyte?#|||||Do you seek salvation?
+church_dia02 You can achieve salvation from eternal#damnation by donating to Saint#Esselin.
+church_dia03 A recommendation of at least 15 munnies#is needed for that.
+church_dia04 We are thankful.#May you find peace.
+church_dia05 You do not have the minimum#value we require.
+church_dia06 May the Lord have#mercy on you.
+church_dia07 -Personnel Only-
+church_dia08 ...
+church_dia09 We are a small minority now#that the Her Highness propagated her#destruction.
+church_dia10 Most of the population has#lost faith in the gods...
+church_dia11 She's to blame for all#that is wrong right now.
+church_dia12 Saint Esselin is absolute.#His wish reigns supreme.
+church_dia13 You are safe here with us.
+
+choir_dia01 Our prayers have been heard.||||||||||||||||#The Witch of Decay and her#demons have been vanquished.
+choir_dia02 Little by little,|||||||||||||||||||| the voice of the#gods pierces through this kingdom#shrouded in darkness.
+choir_dia03 Still,||||||||||||| for this convent to go#against Her Highness' wishes...#It is a disgrace to the name of our lord.
+choir_dia04 Her kindness knows no bounds.#||||||||||||||If you so desire,||||||||||||||||||| she'll protect even a#heretic from Lun such as you.
+choir_dia05 Under the sacred protection of our Lord,#||||||||let us pray for the souls of those departed,#||||||||||||||and for those wasted by the dark.
+choir_dia06 @Please,||||||||||||||| my Lord,||||||||||||| have mercy#on the soul of my poor sister.#||||||||||||||||||So she can rest in peace...
+choir_dia07 That tissue you possess...
+choir_dia08 It certainly belonged to#my younger sister.
+choir_dia09 Would you be willing to#give it to me?
+choir_dia10 Handed in the Soft Tissue.
+choir_dia11 Thank you for your kindness.
+choir_dia12 Like my deceased sister,#|||||||||||||||you pose a threat to the Crown.
+choir_dia13 I can't idle around when you do#as you please.||||||||||||||||#Pray your soul will go in peace.
+choir_dia14 Lord Esselin,|||||||||||||||||#have mercy on me...
+
+fennel_dia01 £@Why...?#|||||||||||||||||||My Lord...
+fennel_dia02 The Queen destroyed this#kingdom's faith.
+fennel_dia03 This convent,|||||||||| our abode,||||||||||#is all that's left for those#who pray.
+fennel_dia04 Maiden in white...#|||||||||||||You are not one of us.
+fennel_dia05 Perhaps you are siding#with the Queen?
+fennel_dia06 Look at what she's done#to this kingdom!
+fennel_dia07 It is my duty to#expurge that evil!
+
+moka01_dia01 Huh?
+moka01_dia02 ||||||||Looks like some#outsider missionary...
+moka01_dia03 @Ke he he...
+moka01_dia04 Ah ha ha...#|||||||||||||Your rotten corpse will#serve my mistress well!
+moka01_dia05 £You little pest...
+moka01_dia06 £I can't waste any more time#with you!
+moka02_dia01 No...|||||||||||||||||#No!
+moka02_dia02 £NO...! ||||||||||||||||NO! ||||||||#NONONONO!!!
+
+paramol_dia01 Don't come any closer.
+paramol_dia02 Oh well.||||||||#You seem sane enough.
+paramol_dia03 You are a priestess seeking an#audience with the royal court?
+paramol_dia04 In the present state,|||||||||||| reaching#the castle is highly difficult.
+paramol_dia05 You won't find help easily in#this city,||||||||||||| but...
+paramol_dia06 My Master might be able#to guide you.
+paramol_dia07 She lives inside this city's#monastery, surrounded by cats.
+paramol_dia08 Have you seen the people#of this city?||||||||||||#Everything is lost.
+paramol_dia09 Fear destroys our minds.|||||||||||#Stay safe.
+paramol_dia10 Have you heard?#|||||||||||||||||||The pardoner's older sibling#has returned.
+paramol_dia11 She is one of the court authorities#on behalf of the convent.
+paramol_dia12 Perhaps you'll be#interested in meeting her.
+
+cotti_dia01 If it isn't an unfamiliar face#to this monastery.
+cotti_dia02 A devout from Lun,|||||||||||| I see. #||||||||||||You can call me Cotillard.
+cotti_dia03 Oh?#||||||||||You have met with Paramol?
+cotti_dia04 Ke ke ke...#|||||||||||||Such innocence.
+cotti_dia05 So,|||||||||||||||||| you are concerned about your homeland.#||||||||||Indeed, the darkness assaulting your people#hails from here.
+cotti_dia06 |||||||Our Queen has become possessed#by a malevolent greed.|||||||||||||
+cotti_dia07 She's the one responsible for many casualties.|||||||||||||#Not only here, but in other lands,|||||||||||| too.
+cotti_dia08 @Ke ke ke...@
+cotti_dia09 Perhaps you should head to the castle.|||||||||||||||#Just don't expect kindness from#those who live there.
+cotti_dia10 You'll have to find the#way on your own.
+cotti_dia11 Here,||||||||||||||| this should help you a bit.
+cotti_dia12 Be careful.||||||||||||||||#It's been only a year since all#of this started,|||||||||||||| but most of our#population is completely degenerated.
+cotti_dia13 This area has been declared forbidden by#the nobility,||||||||||| so it's refreshing to see#an outsider.
+cotti_dia14 I see you've made some progress.||||||||||||||||||#Heading to the castle,|||||||||||||||||||| still?
+cotti_dia15 @The source of this mess,|||||||||||||||||#ke ke ke...
+cotti_dia16 When Her Highness made a contract#with the Underworld,||||||||||||||||||||||| certainly she did not#expect this outcome.
+cotti_dia17 Or did she?
+cotti_dia18 I hope for the success of your#endeavors,|||||||||||||||||| maiden from Lun.
+cotti_dia19 Face the loyalty that remains,||||||||||||||||#if it has not turned to fear yet.
+cotti_dia20 Ke ke...#|||What an adorable little cat you are.
+
+eri01_dia01 Finally out of the cell...
+eri01_dia02 It should be safe here.#This place seems completely#abandoned.
+eri01_dia03 Now...#||||||||||||||Which way is the forest again...?
+eri01_dia04 H-£Huh.
+eri01_dia05 @What's with those clothes...?||||||||||||||#@Who are you?!#Identify yourself,|||||||||||||| now!
+eri01_dia06 Priestess?#Okay, then.
+eri01_dia07 Here's a friendly warning: you won't#find safety in this region anymore.
+eri01_dia08 According to hearsay,||||||||||||||| the Queen summoned#a storm of disease from her castle,||||||||||||||||||||| one that's#spreading throughout the world...
+eri01_dia09 Look,|||||||||||||||| you don't seem like#a bad person.
+eri01_dia10 Please run away from here and save#yourself while you still can.
+
+eri02_dia01 I'm glad you are#still alive.
+eri02_dia02 I guess I didn't introduce#myself last time.
+eri02_dia03 My name is Eri.#|||||||||||||||Nice to meet you.
+eri02_dia04 So,|||||||||||||||| you came here#from the west.
+eri02_dia05 Hmm.||||||||||||#Anywhere would be safer than here.|||||||||||||||||#This city is...
+eri02_dia06 Our people...|||||||||||||||||||#Have become shapeless,||||||||||||| aimless#ghosts.
+eri02_dia07 We were left here to die,||||||||||||||#don't you think?
+eri02_dia08 I...|||||||||||||||||#You are right.
+eri02_dia09 Ah... Thank you.#|||||#Your words give me hope.
+eri02_dia10 I'm retreating to the bordering#forest.||||||||||||||||||| That area is protected from#the Queen's curse.
+
+eri03_dia01 Ah,||||||||||||| how is it going?
+eri03_dia02 I see.#You've come from far away,||||||||||||| and even#your homeland is being affected by our curse...
+eri03_dia03 Hey!#£That Hazel Badge!£
+eri03_dia04 I wonder if you'd be willing to trade it#for this special item I possess?
+eri03_dia05 Thank you.
+eri03_dia06 If you change your mind,#||||||||||||||||I'll be waiting.
+eri03_dia07 Got Blessing Charm!
+eri03_dia08 Have faith,|||||||||||||||| Kaho.#I know things will turn out better soon!
+eri03_dia09 I'm sorry...
+
+florist_dia01 Ah... Hello.#How may I help you?
+florist_dia02 You may have noticed parts of#the city have been affected by a foul curse.
+florist_dia03 This area in particular has been displaced,#and is now corrupted by the spirits of the dead.
+florist_dia04 @And so my dear plants have dried#to this souless form.@
+florist_dia05 I've been looking for this rare insect#species,||||||||||||||||| a kind of Ivory Bug.
+florist_dia06 If you happen to come across one of those,#|||||||||||||||please bring it to me!#I will reward you any way I can.
+florist_dia07 I see you have found the special bug#I told you about!#Here, take this for a reward.
+florist_dia08 Please,|||||||||||| if it's not too much work,#||||||||||||||||||can you bring more of those for me?
+florist_dia09 You shall not go unrewarded!
+florist_dia10 £Ah!£ More bugs!|||||||||||||||#Thanks,||||||||||||||| kind girl.#Here's the reward#I promised!
+florist_dia11 It seems we have around 20#of those Ivory Bugs here...
+florist_dia12 They are small,|||||||||||||||| but provide my#plants with necessary nutrients.
+florist_dia13 Thank you from the bottom of#my heart for bringing me all those bugs!
+
+impnpc_dia01 I have no business#with you.
+impnpc_dia02 Go away,|||||||||||||||| you stupid girl!
+impnpc_dia03 @Oh,||||||||||||| is that...@#£A dirty shroom...?
+impnpc_dia04 £P-pleasegiveittome?
+impnpc_dia05 Gave the Dirty Shroom.
+impnpc_dia06 Thank you,||||||||||| human girl!
+impnpc_dia07 Here,|||||||||||| take this for your kindness.
+impnpc_dia08 Got Rotten Bellflower.
+impnpc_dia09 ...
+
+himehorn_dia01 £Uu...||||||#Nohorn, ||||||||go home!
+himehorn_dia02 £Aaaa...||||||||||#My cake...
+
+askorn01_dia01 £@Cough...
+askorn01_dia02 £I'm sorry, |||||||||who are you?
+askorn01_dia03 I see.#|||||||||||So you are Kaho, huh?#|||||||||||#What a unique name.
+askorn01_dia04 Call me Askorn.##|||||||||||||I take it you are unaware#of the situation of these lands.
+askorn01_dia05 You mentioned your journey#brought you here in search of#the Queen...
+askorn01_dia06 If you really intend to continue further into#the kingdom of Karst,|||||||||| beware.
+askorn01_dia07 A ghastly presence has been#enveloping everything.
+askorn01_dia08 This sacred grove is one of#the few untouched spots.
+askorn01_dia09 Karst City is ahead.#As dangerous as it is now, I must visit it#to search for a beloved one.
+askorn01_dia10 I've been asleep for a hundred years.#||||||||||Enough to make me unfamiliar with#this kingdom.
+askorn01_dia11 In my days, ||||||||||||||||people would come to#this grove and pray to higher deities.
+askorn01_dia12 The people of this kingdom may have lost#their faith, ||||||||||but I still have mine within me.
+askorn01_dia13 Perhaps it was those heretic actions#that led us to the present state of events...?
+
+askorn02_dia01 Hey,|||||||||||| Kaho!
+askorn02_dia02 Help me somehow!
+askorn02_dia03 Thank you.
+askorn02_dia04 I was imprisoned here,||||||||||||#and feared all my hope#was lost.
+askorn02_dia05 Now I can resume my search for my wife.
+askorn02_dia06 We both died long ago,|||||||||||||| yet it seems the dead#have crossed the border towards this world.
+askorn02_dia07 There's much left untold.||||||||||||||||||||||||#I plan to reunite with her and#escape this forsaken city.
+askorn02_dia08 I can see you are still#in one piece.
+askorn02_dia09 That kind of attire#you use...
+askorn02_dia10 It's not something from#this land,|||||||||||| am I correct?
+askorn02_dia11 No matter.
+askorn02_dia12 At this state of decay,||||||||||||#none of us should be#idling carelessly.
+askorn02_dia13 I'll be around.#Take care!
+askorn02_dia14 The township's past prosperity and glory#are long gone,||||||||||||||| it seems.
+askorn02_dia15 In this time of need,||||||||||||||| people won't#fight,||||||||||||| and people won't pray.
+askorn02_dia16 Whatever is left won't#remain for much longer.
+
+askorn03_dia01 @||||My dear Cecilia...
+askorn03_dia02 @...
+
+fishgirl_dia01 Please,||||||||||| you must find a way to get me#out from this cell.
+fishgirl_dia02 Some sort of spell is spreading from#this kingdom to the lands of the#west,||||||||||| home of my people.
+fishgirl_dia03 @Please...|||||||||||#Do not leave me alone here...
+fishgirl_dia04 Find a way to put a stop to this...
+
+nutmeg_dia01 £Huh?#|||||||W-|||||||||||Who are you?!||||||||||||||| And#how did you get here?!
+nutmeg_dia02 £Get out,||||||||||||| outsider!|||||||||||||#Now!|||||||||||||£#You are giving me the creeps!!
+nutmeg_dia03 £Why are you still here?#||||||||W-What is it that you desire?!
+nutmeg_dia04 Um,||||||||||||| whatever you say.
+nutmeg_dia05 I am Nutmeg Liz,||||||||||||| c-curator#of this Royal Pinacotheca.
+nutmeg_dia06 Like I told you#before: LEAVE.
+nutmeg_dia07 I wish there was a reason for you to#stick around,||||||||||||||||||| but there isn't.
+nutmeg_dia08 You have business#with the Queen...?
+nutmeg_dia09 Well,||||||||||||||| that's rare.||||||||||||||||||||||||||#Do you realize...
+nutmeg_dia10 No,|||||||| nevermind.
+nutmeg_dia11 Be glad you are still alive and breathing.||||||||||||||||||||||||||||||#Don't worry,||||||||||||| though,||||||||||| your time is coming.
+nutmeg_dia12 £Nye he he#he he he...
+nutmeg_dia13 At this point,|||||||||||||||| we are walking#a path of uncertainties.#It brings out the best and#the worst out of us.
+
+merlot_dia01 Ah... Who are you?#Someone from the southern#provinces?
+merlot_dia02 There's a certain...#peculiar air around you.
+merlot_dia03 Please,|||||||||||||| join us here.#||||||||||||||||||It's safer.
+merlot_dia04 Though... It seems you can#manage your way around. 
+merlot_dia05 What we remember of the past are simple#figments of our memories.
+merlot_dia06 Personal treasures that aren't#stored anywhere else.
+merlot_dia07 The past doesn't exist...#The present is all we've got.
+
+mallory_dia01 This building is corrupted...
+mallory_dia02 Once,|||||||||||||||||| it housed fine displays of art,||||||||||||||||||| but#now it's been doomed to distorted#shapes filled with evil.
+mallory_dia03 I am glad you found us.|||||||||||||||||||#We've been hiding here for many#months,||||||||||||||||||| alone.
+mallory_dia04 Death could come any day,||||||||||||||||||||| any minute now.#|||||||||||||||||None of us know how long we've got.
+mallory_dia05 Which is why we have to make#each day matter.
+
+lupiar_dia01 So you are the one who#engaged with Fennel.
+lupiar_dia02 Turn back now,|||||||||||||| foreigner.#||||||||||||Her Highness does not want to be#disturbed.
+lupiar_dia03 Such impudence...
+lupiar_dia04 Magnolia!
+magnolia_dia01 I know your kind...||||||||||||||||||||||#£@Cough...
+magnolia_dia02 Just like the pardoner,||||||||||||||||||#you stand against our Queen...
+magnolia_dia03 £@Cough...||||||||||||#Blinded by faith.
+magnolia_dia04 @£The Queen would never...|||||||||#hurt u... |||||||||||||s...
+
+prudence_dia01 You cannot deceive me.
+prudence_dia02 £Meow...£|||||||||||||||||||||#Welcome to Karst Castle,||||||||||||| human.
+prudence_dia03 That black dress...|||||||||||||||||||||||||||||||||#A sacrifice maiden from Lun, ||||||||||||||I presume?
+prudence_dia04 £Meow...£|||||||||||||||||||||#Perhaps even your methods wouldn't#be enough to save us.
+prudence_dia05 £Meow...£|||||||||||||||||||||#Ha ha ha ha...
+prudence_dia06 To truly purify this curse, |perhaps you would#need a special blessing...|#£Meow ha ha...
+
+// Bad ending
+ending_dia01 Kaho,|||||||||||||||| the high priestess from the#village of Lun,||||||||||||||||||||| failed in her mission#of sealing away the curse.
+ending_dia02 The world of the living was further infested#by spirits of the dead,||||||||||||||||||| who continued to#spread misery throughout the world.
+ending_dia07 Bad Ending
+
+// Good ending
+ending_dia03 When the curse from east reached the#village of Lun,|||||||||||||||||||||| a priestess was sent#on a sacred mission to seal it away.
+ending_dia04 The priestess triumphed over the dark,||||||||||||||||| stopping#the spread of the curse by drawing it into her#body,||||||||||||||||||| but she faded away in the process.
+ending_dia05 Now only a faint memory of her story#remains,||||||||||||||||||||||||||| passed on as tradition.
+ending_dia06 Even so,|||||||||||||||||| her spirit of determination lingers on,#|||||||||||||||||||guiding younger priestesses towards finding peace.
+
+dev_dia01 Welcome to the DEVELOPMENT ROOM!#Congratulations on making it this far.
+dev_dia02 This is where you get#to meet the development team.
+dev_dia03 If you wish to go back,||||||||||||||||#proceed to the left.
+dev_dia04 rdein: Hello! I hope you are enjoying#Momodora.
+dev_dia05 rdein: Whatever we make next,#I hope you'll look forward to it, too!
+dev_dia06 PKBT: oh...?|||||||||||||||#my developer room quote...?
+dev_dia07 PKBT: i haven't thought of one yet...
+dev_dia08 PKBT: rdein says i need a vacation...#||||||||||||||||||i guess i could say that...
+dev_dia09 Hernan: You can achieve anything as long#as you believe in it.
+dev_dia10 Hernan: Don't give up my friend!#See you again in the future! 
+dev_dia11 ...
+dev_dia12 notoriousKnave: £Boo!
+dev_dia13 thernz: I didn't do anything for this game
+
+// Item Messages //
+item_name_01 Adorned Ring
+item_name_02 Necklace of Sacrifice
+item_name_04 Bellflower
+item_name_05 Astral Charm
+item_name_06 Edea's Pearl
+item_name_07 Dull Pearl
+item_name_08 Red Ring
+item_name_09 Magnet Stone
+item_name_10 Rotten Bellflower
+item_name_11 Faerie Tear
+item_name_12 
+item_name_13 Impurity Flask
+item_name_14 Passiflora
+item_name_15 Crystal Seed
+item_name_16 Medal of Equivalence
+item_name_17 Tainted Missive
+item_name_18 Black Sachet
+item_name_19 
+item_name_20 
+item_name_21 Ring of Candor
+item_name_22 Small Coin
+item_name_23 Bakman Patch
+item_name_24 Cat Sphere
+item_name_25 Hazel Badge
+item_name_26 Torn Branch
+item_name_27 Monastery Key
+item_name_28 
+item_name_29 Karst Crest
+item_name_30 
+item_name_31 Clarity Shard
+item_name_32 Dirty Shroom
+item_name_33 
+item_name_34 Ivory Bug
+item_name_35 Violet Sprite
+item_name_36 Soft Tissue
+item_name_37 Garden Key
+item_name_38 Sparse Thread
+item_name_39 Blessing Charm
+item_name_40 Heavy Arrows
+item_name_41 Bloodstained Tissue
+item_name_42 Maple Leaf
+item_name_43 Fresh Spring Leaf
+item_name_44 Pocket Incensory
+item_name_45 Birthstone
+item_name_46 Quick Arrows
+item_name_47 Drilling Arrows
+item_name_48 Sealed Wind
+item_name_49 Cinder Key
+item_name_50 Crest Fragment
+item_name_51 Crest Fragment
+item_name_52 Crest Fragment
+item_name_53 Crest Fragment
+
+item_effect_01 Passive Effect: increases invincibility frames and defense.
+item_effect_02 Passive Effect: increases attack by 100% when in low health.
+item_effect_04 Active Effect: restores a small amount of HP per use.
+item_effect_05 Passive Effect: sometimes enemies will drop twice as much munny.
+item_effect_06 Passive Effect: grants poison properties to your arrows.
+item_effect_07 Passive Effect: grants poison properties to your arrows.
+item_effect_08 Passive Effect: restores a small amount of HP per kill, but#enemies won't drop munny.
+item_effect_09 Passive Effect: attracts munny stars.
+item_effect_10 Active Effect: inflicts poison on the user.
+item_effect_11 Passive Effect: raises user's resistance to status ailments.
+item_effect_12
+item_effect_13 Passive Effect: restores HP whenever user is poisoned.
+item_effect_14 Active Effect: fully restores the user's HP.
+item_effect_15 Active Effect: temporarily increases attack by 50%.
+item_effect_16 Passive Effect: slowly restores HP.
+item_effect_17 Active Effect: temporarily increases attack by 100%,#at the cost of HP.
+item_effect_18 Passive Effect: heavily increases attack power,#at the risk of losing HP.
+item_effect_19 
+item_effect_20 
+item_effect_21 Passive Effect: emits a sound when near secrecy.
+item_effect_22 Key Item.
+item_effect_23 Active Effect: summons several Bak blocks.
+item_effect_24 Active Effect: alternates between cat and human forms.
+item_effect_25 Key Item.
+item_effect_26 Passive Effect: restores a small amount of HP per kill.
+item_effect_27 Key Item.
+item_effect_28 Key Item.
+item_effect_29 Key Item. Allows warping when praying.
+item_effect_30 
+item_effect_31 Active Effect: increases visibility in dark areas.
+item_effect_32 Key Item.
+item_effect_33 
+item_effect_34 Key Item.
+item_effect_35 Active Effect: casts protective dark sorcery.
+item_effect_36 Active Effect: creates an artificial healing zone.
+item_effect_37 Key Item.
+item_effect_38 Active Effect: casts a powerful burst of energy.
+item_effect_39 Active Effect: casts protective light sorcery.
+item_effect_40 Passive Effect: increases power of arrows.
+item_effect_41 Active Effect: casts offensive sorcery.
+item_effect_42 Key Item.
+item_effect_43 Key Item.
+item_effect_44 Passive Effect: adds flame damage to your attacks.
+item_effect_45 Key Item.
+item_effect_46 Passive Effect: drastically increases speed of arrows.
+item_effect_47 Passive Effect: arrows pierce through enemies.
+item_effect_48 Active Effect: casts wind sorcery.
+item_effect_49 Key Item.
+item_effect_50 Key Item. Grants a new bow charge level.
+item_effect_51 Key Item. Increases arrow charging speed.
+item_effect_52 Key Item. Allows mid-air dodging.
+item_effect_53 Key Item. Allows warping when praying.
+
+item_lore_01 Manually sculpted from minerals found in the depths of#the Green River. The piece comes from a middle-western#empire, evident by its engraving.
+item_lore_02 Very small necklace.#Those who wear it will find strength in its#strange blessing, hoping to retrieve that which was lost.
+item_lore_04 Sour flower with restorative powers.
+item_lore_05 An old, worn-out charm.#Radically increases your luck.
+item_lore_06 Edea was a sinner who betrayed her own people.#For such acts, she was purged, and her body sent#to a sacred grove, far from home.
+item_lore_07 A pearl made to look like the rare jewel of a demon.
+item_lore_08 #Ring made of blood, possessing the ability to#drain the remnants of fallen enemies.
+item_lore_09 A peculiar rock, rarely found on the surface.
+item_lore_10 A favorite of the previous King of Karst.#His baptismal name is kept in absolute secrecy, to#avoid misfortune.
+item_lore_11 Solidified state of a fairy's tear.#Lightly enchanted, it scintillates subtly.
+item_lore_12 
+item_lore_13 Dreadful liquid produced by Toar, the slumbering doctor.#Its aroma, although deadly, has charmed many#unfortunate souls.
+item_lore_14 A rare flower, harvested from the#dried Whiteleaf Park.
+item_lore_15 Soft seed made of crystal.#Quite difficult to grow into an adult tree, due to#its delicacy.
+item_lore_16 Medal from the province of Crominia.#Carried by messengers mounted on deers,#dedicated to a life of long travels.
+item_lore_17 #The followers of Esselin preach forgiveness, but their#thoughts are spiteful and filled with hatred.
+item_lore_18 #Sachet applicable to one's chest.#Its scent might induce sudden frenzy.
+item_lore_19 
+item_lore_20 
+item_lore_21 A ring often sought for its aesthetic value.#Few know of its secret uses.
+item_lore_22 Simple gift of subjective significance.
+item_lore_23 An absolutely tasteless object.#Belonged to Moka, the demon servant of the undead#witch Lubella.
+item_lore_24 Object of unknown sorcery.#Looks like an ordinary glass ball.
+item_lore_25 A trinket, as useless as it may be, can still hold a#place in our heart.#This shiny little badge in particular seems to depict an owl.
+item_lore_26 The Whiteleaf Park, affected by the Queen's sorcery, was#displaced towards the bottom of the city.#It was infested by underworld spirits and demons, such as#the immortal witch Lubella.   
+item_lore_27 Opens the doors of the upper floor of the Esselin#Convent.#The Convent and its annexes have been abandoned#once they fell to the Queen's uncontrollable dark sorcery.
+item_lore_28 Fraction of an emblem representing the current Karstian#regime.#Four parts are needed to access the areas#leading to the castle's gates.
+item_lore_29 Grants access to Karst Castle.#A design that once united the People, the Gods,#and the Crown. Now devoid of any significance.
+item_lore_30 
+item_lore_31 According to Karstian customs, these are placed on#tombstones as offerings to the dead. It's believed that their#lights guide those onto the afterlife.
+item_lore_32 It's leaking some slimy white substance...#Imp girls  are fond of it. 
+item_lore_33 
+item_lore_34 A tiny, harmless insect.#This creature feeds on the body of diseased life#forms, removing their sicknesses.
+item_lore_35 Unknown substance leaked out of emptiness.#The citizens of Karst, upon being cursed, entered a#transitional state, neither truly alive nor truly dead.
+item_lore_36 Enchanted fabric used by Esselin nuns in their liturgies.
+item_lore_37 A key covered in moss.#It contains an inscription in Karstian script,#although barely readable.
+item_lore_38 Frida, deemed worthless, was thrown to the tombs#underneath the capital. It's hardly possible to tell if it ever#took the form of a human, or of something else...
+item_lore_39 A protective tool given to infants of the Karstian#royal bloodline.
+item_lore_40 Weapon of Magnolia, captain of the Archery of Karst.#Raised in the woods, she joined Karst's order#of knights and partnered with the loyal Lupiar.
+item_lore_41 Fabric drenched in the 'holy' blood of Archpriestess Choir.#Fearing the power of the Crown, she clinged to the Queen's side#and worshipped her as a goddess. Unlike her older sister,#Fennel remained loyal to her faith and resisted the Queen.
+item_lore_42 A sacred leaf harvested from the Lun Tree.#These leaves, blessed by the Matriarch, are indestructible.#Sharp enough to purify enemies, it is the main weapon#of western priestesses.
+item_lore_43 Green leaf blessed by sacred tea, able to purify#those deeply corrupted by the curse.#This special leaf contains stronger repelling#powers than a common maple leaf's.
+item_lore_44 Enchanted container filled with charcoal and incense.
+item_lore_45 A personal belonging of the Queen of Karst.#Corrupted by great greed, the Queen became insane#and attempted to mend the world of#the living and the world of the dead.
+item_lore_46 Special type of arrow used by the Archery of Karst.
+item_lore_47 Special type of arrow used by the Archery of Karst.
+item_lore_48 A wooden box used for storing divine spells.#Holds strong wind.
+item_lore_49 Used to lock the doors of the Cinder Chambers, an annex#of Esselin Convent.#The chambers, once a storage for censers, were#partially burned and locked to prevent further casualties.
+item_lore_50 Fraction of an emblem representing the current Karstian#regime.#Four parts are needed to access the areas#leading to the castle's gates.
+item_lore_51 Fraction of an emblem representing the current Karstian#regime.#Four parts are needed to access the areas#leading to the castle's gates.
+item_lore_52 Fraction of an emblem representing the current Karstian#regime.#Four parts are needed to access the areas#leading to the castle's gates.
+item_lore_53 Fraction of an emblem representing the current Karstian#regime.#Four parts are needed to access the areas#leading to the castle's gates.
